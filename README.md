@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atishnaik8805
-- 👀 I’m interested in Devloping Applications
+- 👀 I’m interested in Developing Applications
 - 🌱 I’m currently learning Blockchain and creating the entire application pipelines
 - 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me ...
